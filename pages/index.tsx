@@ -115,7 +115,7 @@ const Home: NextPage = () => {
           rel="noopener noreferrer"
         >
           
-          <span className={styles.footer}>
+          <span className={styles.logo}>
           Created with
             <Image src="/vercel.svg" alt="Vercel Logo" width={25} height={16} />
           by Josephine Leung

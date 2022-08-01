@@ -55,29 +55,28 @@ const Home: NextPage = () => {
             target="blank"
             rel="noopener noreferrer"
           >
-            <h2>Notes &rarr;</h2>
+            <h2>Onboarding Flow Notes &rarr;</h2>
             <p>
               <b>Getting Started with Next.js</b>
-              <br />
-              1. I didn&rsquo;t set up my terminal to accept this command.
+              <br />- I didn&rsquo;t set up my terminal to accept this command (<i>npx create-next-app --example https://github.com/vercel/platforms/tree/main platforms</i>).
               Having a message like &ldquo;You need to have a Node env on your
-              computer&rdquo; would have been helpful. Sine I don&rsquo;t have Node
+              computer&rdquo; would have been helpful. Since I don&rsquo;t have Node
               installed locally, I have to install it first.
               <br />
-              2. Before installing Node, I have to install Xcode command line
+              <br />- Before installing Node, I have to install Xcode command line
               tools.
               <br />
-              3. After installing Node.js, I&rsquo;m asked to input command. The
+              <br />- After installing Node.js, I&rsquo;m asked to &rsquo;input the command.&rsquo; The
               directions don&rsquo;t mention this so I&rsquo;m unsure if
               it&rsquo;s okay to install the package.
               <br />
-              4. The I installed is too new. I need to install an older version.
+              <br />- The version installed is too new. I need to install an older version.
               <br />
-              5. After installation, I would add a suggestion for the user to
-              type &ldquo;ls&rdquo; to make sure the platforms folder has been
+              <br />- After installation, I would add a suggestion for the user to
+              type &ldquo;ls&rdquo; to make sure the <i>platforms</i> folder has been
               created.
               <br />
-              6. The instructions at the bottom incude{" "}
+              <br />- The instructions at the bottom incude{" "}
               <i>
                 Note: Don&apos;t forget to convert the .env.example file
                 that&rsquo;s located at the root of the repo into a .env file

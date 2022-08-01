@@ -114,10 +114,14 @@ const Home: NextPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{" "}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+          
+          <span className={styles.footer}>
+          Created with
+            <Image src="/vercel.svg" alt="Vercel Logo" width={25} height={16} />
+          by Josephine Leung
           </span>
+          
+          
         </a>
       </footer>
     </div>

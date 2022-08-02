@@ -82,7 +82,7 @@ const Home: NextPage = () => {
                 that&rsquo;s located at the root of the repo into a .env file
                 &ndash;&nbsp;it&apos;ll come in handy later.
               </i>{" "}
-              I don't see instructions on how to do that.
+              I didn&apos;t see instructions on how to do that.
               <br />
               <br />
               <b>Using a Template</b>

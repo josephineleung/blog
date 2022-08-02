@@ -58,7 +58,7 @@ const Home: NextPage = () => {
             <h2>Onboarding Flow Notes &rarr;</h2>
             <p>
               <b>Getting Started with Next.js</b>
-              <br />- I didn&rsquo;t set up my terminal to accept this command (<i>npx create-next-app --example https://github.com/vercel/platforms/tree/main platforms</i>).
+              <br />- I didn&rsquo;t set up my terminal to accept this command: <i>npx create-next-app --example https://github.com/vercel/platforms/tree/main platforms</i>.
               Having a message like &ldquo;You need to have a Node environment on your
               computer&rdquo; would have been helpful. Since I don&rsquo;t have Node
               installed locally, I have to install it first.
@@ -70,7 +70,7 @@ const Home: NextPage = () => {
               directions don&rsquo;t mention this so I&rsquo;m unsure if
               it&rsquo;s okay to install the package.
               <br />
-              <br />- The version I installed is too new. I need to install an older version.
+              <br />- The version I installed is too new, so I need to install an older version.
               <br />
               <br />- After installation, I would add a suggestion for the user to
               type &ldquo;ls&rdquo; and verify that the folder <i>platforms</i> has been
@@ -89,16 +89,14 @@ const Home: NextPage = () => {
               <br />- Using the examples in the Next.js documentation is much
               easier, since it uses a 1-click deployment.
               <br />
-              <br />- I ran into too many errors from the available examples
+              <br />- I ran into too many errors using the available examples
               from the Next.js examples repo.
               <br />
-              <br />- I decided to start from totally new Next.js project.
+              <br />- I decided to start with a totally new Next.js project.
               <br />
               <br />- I was able to deploy with no problem.
               <br />
               <br />- Cute milestone message with confetti.
-              <br />
-              <br />- Good preview.
               <br />
               <br />- I edited my site in VS code.
               <br />

@@ -60,20 +60,20 @@ const Home: NextPage = () => {
               <b>Getting Started with Next.js</b>
               <br />- I didn&rsquo;t set up my terminal to accept this command: <i>npx create-next-app --example https://github.com/vercel/platforms/tree/main platforms</i>.
               Having a message like &ldquo;You need to have a Node environment on your
-              computer&rdquo; would have been helpful. Since I don&rsquo;t have Node
-              installed locally, I have to install it first.
+              computer&rdquo; would have been helpful. Since I didn&rsquo;t have Node
+              installed locally, I had to install it first.
               <br />
-              <br />- Before installing Node, I have to install Xcode command line
+              <br />- Before installing Node, I had to install Xcode command line
               tools.
               <br />
-              <br />- After installing Node.js, I&rsquo;m asked to &rsquo;input the command.&rsquo; The
-              directions don&rsquo;t mention this so I&rsquo;m unsure if
+              <br />- After installing Node.js, I was asked to &rsquo;input the command.&rsquo; The
+              directions didn&rsquo;t mention this so I was unsure if
               it&rsquo;s okay to install the package.
               <br />
-              <br />- The version I installed is too new, so I need to install an older version.
+              <br />- The version I installed is too new, so I needed to install an older version.
               <br />
               <br />- After installation, I would add a suggestion for the user to
-              type &ldquo;ls&rdquo; and verify that the folder <i>platforms</i> has been
+              type &ldquo;ls&rdquo; in order to verify that the folder <i>platforms</i> has been
               created.
               <br />
               <br />- The instructions at the bottom incude{" "}
@@ -82,23 +82,21 @@ const Home: NextPage = () => {
                 that&rsquo;s located at the root of the repo into a .env file
                 &ndash;&nbsp;it&apos;ll come in handy later.
               </i>{" "}
-              How would I do that?
+              I don't see instructions on how to do that.
               <br />
               <br />
               <b>Using a Template</b>
-              <br />- Using the examples in the Next.js documentation is much
+              <br />- Using the examples in the Next.js documentation seemed much
               easier, since it uses a 1-click deployment.
               <br />
               <br />- I ran into too many errors using the available examples
-              from the Next.js examples repo.
+              from the Next.js examples repo, so I decided to start with a totally new Next.js project.
               <br />
-              <br />- I decided to start with a totally new Next.js project.
+              <br />- I was able to deploy without any problems.
               <br />
-              <br />- I was able to deploy with no problem.
+              <br />- I liked the milestone message with confetti.
               <br />
-              <br />- Cute milestone message with confetti.
-              <br />
-              <br />- I edited my site in VS code.
+              <br />- I was able to edit my site in VS code.
               <br />
               <br />- I used my terminal to push my changes to github.
             </p>

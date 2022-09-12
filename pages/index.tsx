@@ -49,59 +49,7 @@ const Home: NextPage = () => {
           </a>
         </div>
 
-        <div className={styles.notescard}>
-          <a
-            href="https://github.com/josephineleung/blog"
-            target="blank"
-            rel="noopener noreferrer"
-          >
-            <h2>Onboarding Flow Notes &rarr;</h2>
-            <p>
-              <b>Getting Started with Next.js</b>
-              <br />- I didn&rsquo;t set up my terminal to accept this command: <i>npx create-next-app --example https://github.com/vercel/platforms/tree/main platforms</i>.
-              Having a message like &ldquo;You need to have a Node environment on your
-              computer&rdquo; would have been helpful. Since I didn&rsquo;t have Node
-              installed locally, I had to install it first.
-              <br />
-              <br />- Before installing Node, I had to install Xcode command line
-              tools.
-              <br />
-              <br />- After installing Node.js, I was asked to &rsquo;input the command.&rsquo; The
-              directions didn&rsquo;t mention this so I was unsure if
-              it&rsquo;s okay to install the package.
-              <br />
-              <br />- The version I installed is too new, so I needed to install an older version.
-              <br />
-              <br />- After installation, I would add a suggestion for the user to
-              type &ldquo;ls&rdquo; in order to verify that the folder <i>platforms</i> has been
-              created.
-              <br />
-              <br />- The instructions at the bottom incude{" "}
-              <i>
-                Note: Don&apos;t forget to convert the .env.example file
-                that&rsquo;s located at the root of the repo into a .env file
-                &ndash;&nbsp;it&apos;ll come in handy later.
-              </i>{" "}
-              I didn&apos;t see instructions on how to do that.
-              <br />
-              <br />
-              <b>Using a Template</b>
-              <br />- Using the examples in the Next.js documentation seemed much
-              easier, since it uses a 1-click deployment.
-              <br />
-              <br />- I ran into too many errors using the available examples
-              from the Next.js examples repo, so I decided to start with a totally new Next.js project.
-              <br />
-              <br />- I was able to deploy without any problems.
-              <br />
-              <br />- I liked the milestone message with confetti.
-              <br />
-              <br />- I was able to edit my site in VS code.
-              <br />
-              <br />- I used my terminal to push my changes to github.
-            </p>
-          </a>
-        </div>
+
       </main>
 
       <footer className={styles.footer}>
